@@ -1,0 +1,19 @@
+{
+  "name": "react_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuLIA23568/React.git"
+  },
+  "author": "Julia Ponteley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuLIA23568/React/issues"
+  },
+  "homepage": "https://github.com/JuLIA23568/React#readme"
+}
